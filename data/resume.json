@@ -1,0 +1,386 @@
+{
+  "basics": {
+    "name": "Paul Manning",
+    "label": "Agile Software Development Leader",
+    "phone": "",
+    "website": "",
+    "summary": "A leader with over 14 years of software development management experience and many years of software programming experience.  Major focus on software product delivery through continuous improvement.   Expert in traditional and agile development techniques, including SCRUM and Extreme Programming, as well as bringing significant process improvement techniques.\n\nKey Strengths:\n♦ Agile and Traditional Methodologies\n♦ Delivery of high-quality software at any scale\n♦ Software Design and Architecture\n♦ Continuous Process Improvement\n♦ Recruiting and Hiring of top talent\n♦ Cross-Team collaboration",
+    "location": {
+      "address": "14123 148th Pl SE",
+      "postalCode": "98059",
+      "city": "Renton",
+      "countryCode": "US",
+      "region": "WA"
+    },
+    "profiles": [],
+    "email": "mortman1@gmail.com"
+  },
+  "work": [
+    {
+      "company": "Ascentium",
+      "position": "Development Manager",
+      "website": "",
+      "startDate": "2001-01-01",
+      "summary": "♦ Lead a Small development team (12 people) with waterfall and agile (XP) methods.\n♦ Hands-On Development of Microsoft HTML/CSS/ASP Web/SQL Server Technologies.",
+      "highlights": [],
+      "endDate": "2002-01-01"
+    },
+    {
+      "company": "Kindred Communications",
+      "position": "Development Manager",
+      "website": "",
+      "startDate": "2000-01-01",
+      "summary": "♦ Managed a small development team (20 people) with waterfall methods.\n♦ Hands-on development using Microsoft HTML/CSS/ASP Web/SQL Server technologies.",
+      "highlights": [],
+      "endDate": "2001-01-01"
+    },
+    {
+      "company": "Microsoft",
+      "position": "Developer",
+      "website": "",
+      "startDate": "1998-01-01",
+      "summary": "♦ Software Engineer focused on internal Microsoft Content Management system tools used to publish specialized marketing content out to the web.  \n♦ Piloted development in C# (which was in Alpha at the time) for that project.",
+      "highlights": [],
+      "endDate": "2000-01-01"
+    },
+    {
+      "company": "Boeing",
+      "position": "Developer",
+      "website": "",
+      "startDate": "1996-01-01",
+      "summary": "♦ Performed Microsoft Office (VBA) and ASP Web development for business teams in Boeing.  Created MS Excel and Access based applications used for manufacturing support.",
+      "highlights": [],
+      "endDate": "1998-01-01"
+    },
+    {
+      "company": "US Navy",
+      "position": "Sonar Technician - Submarines (STS-5/SS)",
+      "website": "",
+      "startDate": "1987-02-01",
+      "summary": "Stationed on the U.S.S. Georgia (SSBN-726/G) and U.S.S. Henry M. Jackson (SSBN-730/G).  \n\n♦ Performed acoustic monitoring and frequency analysis and vessel classification.  \n♦ Qualified multiple watch stations.  \n♦ Performed electronics maintenance and repair on vital ships electronic systems.  \n♦ Wrote training software in DB2 and sonar tracking simulation software on HP Handheld computers.",
+      "highlights": [],
+      "endDate": "1994-10-01"
+    },
+    {
+      "company": "Iron Mountain",
+      "position": "Software Development Manager",
+      "website": "",
+      "startDate": "2014-06-01",
+      "summary": "♦ Managed 3 teams (local and offshore) of Software Engineers, QA Engineers, Business Analysts, and Project Managers.  \n♦ Drove the creation of high security information management software used in tracking and managing intellectual property asset records and tracking.  \n♦ Architected and Designed software using Microsoft technologies, including mobile devices and web and client applications used to ensure reliable and legally traceable information assets. \n♦ Reviewed Code for defects and design.   \n♦ Improved team processes using Agile/SCRUM methods.\n♦ Created and delivered presentations for executives and customers.",
+      "highlights": [],
+      "endDate": "2015-10-01"
+    },
+    {
+      "company": "Apex Learning",
+      "position": "Director of Development/QA",
+      "website": "",
+      "startDate": "2011-08-01",
+      "summary": "♦ Managed software team (15 FTE, 25 temp, 12 offshore) in delivery of multiple releases for production platforms for a $50M company.\n♦ Architected and designed SAAS software using web, HTML5, and JavaScript, including improvements necessary for tablet compatibility.\n♦ Improved production support to 100% responsiveness in 6 months.\n♦ Increased software team and system maturity using CMMI principals applied in an agile SCRUM environment.  \n♦ Certified SCRUM product owner (CSPO) and ScrumMaster (CSM)\n♦ Designed and lead the transition to a complete continuous build and deployment automation using “Jenkins” and “ThoughtWorks Go” to ensure improved quality, zero downtime, lower risk, and multiple frequent reliable deployments.",
+      "highlights": [],
+      "endDate": "2013-11-01"
+    },
+    {
+      "company": "Wizards of the Coast",
+      "position": "Director, Development",
+      "website": "",
+      "startDate": "2008-04-01",
+      "summary": "♦ Lead 4 Teams (2 Development, 1 QA, 1 PMO) and a $5M Budget.\n♦ Managed with SCRUM/XP and waterfall methods.\n♦ Responsible for a massive e-commerce and communication system supporting the corporate enterprise and gaming systems.\n♦ Performed Continuous Process Improvement and saved $350K annually due to these improvements.",
+      "highlights": [],
+      "endDate": "2011-02-01"
+    },
+    {
+      "company": "Wizards of the Coast",
+      "position": "Senior Software Applications Development Manager",
+      "website": "",
+      "startDate": "2007-04-01",
+      "summary": "♦ Shipped Massively Multiplayer Game (Magic:  The Gathering 2.5 and 3.0) and Multiple Internal Business Applications with a 35-person development team.",
+      "highlights": [],
+      "endDate": "2008-04-01"
+    },
+    {
+      "company": "SolutionsIQ",
+      "position": "Development Manager",
+      "website": "",
+      "startDate": "2000-08-01",
+      "summary": "♦ Initiated and effectively implemented agile (Scrum/XP) management methods and certified ScrumMaster (CSM).\n♦ Managed multiple, large development teams (50-150 people) in web, Microsoft and Java technologies.",
+      "highlights": [],
+      "endDate": "2007-02-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Madison Ridgeland High School",
+      "area": "",
+      "studyType": "Diploma",
+      "startDate": "1984-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "1986-01-01"
+    },
+    {
+      "institution": "U.S. Navy",
+      "area": "",
+      "studyType": "A.S. Science (Equivalency)",
+      "startDate": "1986-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "1988-01-01"
+    },
+    {
+      "institution": "Bellevue College",
+      "area": "",
+      "studyType": "",
+      "startDate": "2007-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2007-01-01"
+    },
+    {
+      "institution": "Santana High School",
+      "area": "",
+      "studyType": "None",
+      "startDate": "1982-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "1984-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Program Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "E-commerce",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cross-functional Team Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Mobile Devices",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Architecture",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Recruiting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Business Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Applications",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C#",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CRM",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cloud Computing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Engineering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Meteor.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Angular.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Node.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SharePoint",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "User Experience",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft SQL Server",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Content Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Process Improvement",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SaaS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": ".NET",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "XML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Requirements Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Quality Assurance",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Integration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Vendor Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Agile Application Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Agile Methodologies",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scrum",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Automation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Agile Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Enterprise Software",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SDLC",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native or bilingual"
+    },
+    {
+      "language": "American Sign Language",
+      "fluency": "Professional working"
+    }
+  ],
+  "references": []
+}
